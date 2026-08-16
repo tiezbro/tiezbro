@@ -2,12 +2,11 @@
 
 # tiezbro
 
-**AI native 践行者 · B 端系统设计者 · agentic coding 被夺舍者**
+**AI native 践行者 · agentic coding 被夺舍者**
 
 [![INTJ](https://img.shields.io/badge/MBTI-INTJ-111827?style=flat-square)](#)
 [![AI Native](https://img.shields.io/badge/AI-native-111827?style=flat-square&logo=openai&logoColor=white)](#)
 [![Agentic Coding](https://img.shields.io/badge/agentic-coding-111827?style=flat-square&logo=githubcopilot&logoColor=white)](#)
-[![B2B Systems](https://img.shields.io/badge/B2B-systems-2563eb?style=flat-square)](#)
 [![DIY Lab](https://img.shields.io/badge/DIY-media_lab-0f766e?style=flat-square)](#)
 
 </div>
