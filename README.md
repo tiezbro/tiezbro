@@ -24,7 +24,7 @@ INTJ.
 
 A secondhand-tech scavenger who likes tinkering: hand-built DIY, private trackers, NAS, home media streaming, and more, plus getting some actual sunlight.
 
-Good at breaking down complex B2B domains, making them clear, and turning them into executable solutions.
+Good at deconstructing complex B2B domains and producing executable solutions.
 
 When building system products, I believe in simplicity, efficiency, and high-leverage design: less complexity, one focused move, multiple real problems solved.
 
