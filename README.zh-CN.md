@@ -89,11 +89,4 @@ AI native 践行者，agentic coding 被夺舍者。
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tiezbro&layout=compact&theme=default&hide_border=true&langs_count=8" />
 </picture>
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tiezbro&theme=github-dark&hide_border=true&area=true" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiezbro&theme=github-light&hide_border=true&area=true" />
-</picture>
-
 </div>
