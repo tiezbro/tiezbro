@@ -20,17 +20,19 @@
 
 ---
 
-INTJ. A secondhand-tech scavenger and electronics tinkerer, usually messing with DIY builds, private trackers, NAS, home media streaming, and getting some actual sunlight.
+INTJ.
 
-I’m good at untangling complex B2B domains, making them understandable, and turning them into executable solutions.
+A secondhand-tech scavenger who likes tinkering: hand-built DIY, private trackers, NAS, home media streaming, and more, plus getting some actual sunlight.
 
-When building system products, I value simplicity, efficiency, and high-leverage design: less accidental complexity, one deliberate move, several real problems solved.
+Good at breaking down complex B2B domains, making them clear, and turning them into executable solutions.
 
-AI-native in practice. Possessed by agentic coding.
+When building system products, I believe in simplicity, efficiency, and high-leverage design: less complexity, one focused move, multiple real problems solved.
+
+AI-native in practice, possessed by agentic coding.
 
 Drawn to Taoist thought.
 
-A geek trying to stay clear, unpretentious, non-conforming, and unbothered.
+A geek trying to stay pure, unpretentious, non-conforming, and unbothered by judgment.
 
 ---
 
